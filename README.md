@@ -53,13 +53,15 @@ The GUI version provides a simple and interactive interface that allows users to
 
 ---
 
-## 7. Monthly Report Feature
+## 7. Monthly Report & Chart Feature
 The Monthly Report feature allows users to:
-- Select a specific month and year  
+- Enter a specific month and year  
 - View category-wise expense totals  
 - Calculate total monthly expenditure  
+- Visualize expenses using bar charts  
 
-This feature is implemented using Pandas datetime filtering for time-based analysis.
+This feature is implemented using Pandas for data filtering and Matplotlib for visualization.
+
 
 ---
 ## 8. How to Run the Project
